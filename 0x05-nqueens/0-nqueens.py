@@ -101,7 +101,7 @@ def get_solutions():
     build_solution(a, group)
 
 
-g = get_input()
+n = get_input()
 get_solutions()
 for solution in solutions:
     print(solution)
