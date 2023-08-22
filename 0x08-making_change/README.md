@@ -18,3 +18,6 @@ to meet a given amount total
     Your solution’s runtime will be evaluated in this task
 
 ```
+
+### Run
+`./0-main.py`
